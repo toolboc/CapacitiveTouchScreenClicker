@@ -17,4 +17,10 @@ Produce rapid click gestures on capactive touch screens through use of rapid cha
 
 
 # Use Cases #
-Achieve high scores in less time without sacrificing your attention in popular "idle games"
+Achieve high scores in less time without sacrificing your attention in popular "[idle games](https://en.wikipedia.org/wiki/Incremental_game)"
+
+# Assembly #
+![Image](https://github.com/toolboc/CapacitiveTouchScreenClicker/blob/master/Assets/assembly.PNG)
+
+# Schematic #
+![Image](https://github.com/toolboc/CapacitiveTouchScreenClicker/blob/master/Assets/schematic.PNG)
