@@ -11,9 +11,9 @@ Produce rapid click gestures on capactive touch screens through use of rapid cha
  
 
 # Prerequisite Software #
-- Windows 10 for Raspberry Pi 2
+- [Windows IoT Core for Raspberry Pi 2](http://ms-iot.github.io/content/en-US/win10/SetupPCRPI.htm)
 - [Visual Studio 2015 RTM](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx)
-- Windows 10 Preview
+- [Windows 10](http://www.microsoft.com/en-us/software-download/windows10) 
 
 
 # Use Cases #
