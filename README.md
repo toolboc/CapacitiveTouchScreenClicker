@@ -3,7 +3,7 @@ Produce rapid click gestures on capactive touch screens through use of rapid cha
 
 # Hardware #
 - Raspberry Pi 2
-- Windows 10 for Raspberry Pi 2 Compatible SD Card
+- Windows IoT Core for Raspberry Pi 2 Compatible SD Card
 - 5v Relay 
 - Wire
 - Tape
