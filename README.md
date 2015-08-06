@@ -12,7 +12,7 @@ Produce rapid click gestures on capactive touch screens through use of rapid cha
 
 # Prerequisite Software #
 - Windows 10 for Raspberry Pi 2
-- Visual Studio 2015 RC
+- [Visual Studio 2015 RTM](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx)
 - Windows 10 Preview
 
 
