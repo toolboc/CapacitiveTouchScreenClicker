@@ -1,5 +1,5 @@
 ## Capacitive Touch Screen Clicker ##
-Produce rapid click gestures on capactive touch screens through use of rapid changes in capacitance.
+Produce rapid click gestures on capacitive touch screens through use of rapid changes in capacitance.
 
 # Hardware #
 - Raspberry Pi 2
