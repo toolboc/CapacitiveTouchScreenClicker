@@ -12,8 +12,8 @@ Produce rapid click gestures on capacitive touch screens through use of rapid ch
 
 # Prerequisite Software #
 - [Windows IoT Core for Raspberry Pi 2](http://ms-iot.github.io/content/en-US/win10/SetupPCRPI.htm)
-- [Visual Studio 2015 RTM](https://www.visualstudio.com/en-us/products/vs-2015-product-editions.aspx)
-- [Windows 10](http://www.microsoft.com/en-us/software-download/windows10) 
+- [Visual Studio 2015 RTM](https://www.visualstudio.com/products/vs-2015-product-editions.aspx?WT.mc_id=iot-0000-pdecarlo)
+- [Windows 10](https://www.microsoft.com/software-download/windows10?WT.mc_id=iot-0000-pdecarlo) 
 
 
 # Use Cases #
